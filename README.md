@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushanmehta&label=Profile%20views&color=0e75b6&style=flat" alt="raushanmehta" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT & REACT.JS**
+- 🌱 I’m currently learning **JAVA & JAVASCRIPT & REACT.JS**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,JAVA,HTML,CSS,**
 
 - 📫 How to reach me **raushanmehta2184@gmail.com**
 
