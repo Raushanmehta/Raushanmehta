@@ -1,4 +1,4 @@
- <img src="https://komarev.com/ghpvc/?username=raushanmehta&label=Profile%20views&color=0e75b6&style=flat" alt="raushanmehta" />
+ <img src="/backgroung.png" alt="raushanmehta" />
 <h1 align="center">Hi 👋, I'm Raushan mehta</h1>
 <h3 align="center">A passionate Java & Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushanmehta&label=Profile%20views&color=0e75b6&style=flat" alt="raushanmehta" /> </p>
