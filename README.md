@@ -1,3 +1,97 @@
+
+<h1 align="center">Hi 👋, I'm Raushan Mehta</h1>
+<h3 align="center">Software Developer - Frontend | Java </h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=faizanahmedsy&label=Profile%20views&color=0e75b6&style=flat" alt="faizanahmedsy" /> 
+</p>
+
+---
+
+### 🚀 About Me
+- 💼 Frontend Developer with **6+ months of real-world industry experience**
+- 🧑‍💻 Working full-time while pursuing **B.Tech CE (8th Semester)**
+- 🏗️ Built **2 production-level projects**
+- 📚 Currently focusing on **Java Backend**
+---
+
+### 🌱 Currently Learning
+- **Spring Boot & Microservicess**
+- **Advanced Frontend Architecture**
+- **JavaScript, TypeScript, Java**
+
+---
+
+### 🌐 Portfolio & Reach Me
+- 👨‍💻 Website: **https://raushanmehtain.vercel.app/**
+- 📫 Email: **raushanmehta21841@gmail.com**
+- 📄 LinkedIn: **https://www.linkedin.com/in/raushan-mehta/**
+
+---
+
+<h3 align="left">🤝 Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/raushan-mehta/" target="blank">
+    <img align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🚀 Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://svelte.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/>
+  </a> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanahmedsy&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanahmedsy&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanahmedsy" />
+</p>
+
+---
+ 
  <img src="/backgroung.png" alt="raushanmehta" />
 <h1 align="center">Hi 👋, I'm Raushan mehta</h1>
 <h3 align="center">A passionate Java & Web developer from India</h3>
