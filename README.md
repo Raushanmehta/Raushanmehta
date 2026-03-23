@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Microservices'**
 
-- 👨‍💻 All of my portfolio are available at [https://raushanmehta.vercel.app/](https://raushanmehta.vercel.app/)
+- 👨‍💻 All of my portfolio are available at [https://raushanmehta.in](https://raushanmehta.in)
 
 - 💬 Ask me about **Java & Web development**
 
